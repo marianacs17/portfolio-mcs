@@ -1,7 +1,6 @@
 /.firebaserc
 /notes.txt
 /.firebase
-/public/
 # Logs
 logs
 *.log

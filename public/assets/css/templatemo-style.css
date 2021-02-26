@@ -285,9 +285,9 @@ html {
 
 .section {
     color: #fff;
-    width: 55%;
+    width: 100%;
     right: 10%;
-    left: 35%;
+    left: 30%;
     position: relative;
     min-height: 100vh;
     padding-bottom: 80px;
